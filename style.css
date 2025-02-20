@@ -70,7 +70,10 @@ img {
     border-radius: 10px;
   }
   
- 
+ .cardr p {
+  font-size: 12px;
+ }
+
   .row::after {
     content: "";
     display: table;
@@ -135,7 +138,6 @@ img {
     list-style-type:none;
     color: #1f2937;
     float:left;
-    text-align: center;
   }
   
   .nav ul li {
@@ -168,6 +170,7 @@ img {
     left:0;
     color: #e5e7eb;
     background:#1f2937;
+    font-size: 14px;
     float:left;
     border-radius: 10px;
   }
